@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Aaron\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Aaron\Desktop\Schoolwork and Resources\School Resources\COM 262\COM262\Student Files\Chapter 9\ch15_TaskHistory\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-7fa268bb008a351754103f8ce1ca2db30ad2ca47.jar" />
+    </item>
+
+</items>
